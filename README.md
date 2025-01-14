@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋, I'm Alessandro!
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/alessandro-maranelli-94465221b/)
 
-I'm an Italian student, currently attending a Master's Degree in Computer Science and Engineering at Politecnico di Milano.
+I'm an Italian Data Scientist, with a Master's Degree in Computer Science and Engineering at Politecnico di Milano.
 
 I'm passionate about AI, machine learning, software engineering and computer vision!
 
